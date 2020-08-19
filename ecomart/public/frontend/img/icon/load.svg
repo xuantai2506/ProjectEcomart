@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="28px" viewBox="0 0 20 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>load</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="load" fill="#BABABA" fill-rule="nonzero">
+            <path d="M9.98053,21.0718 C5.84485,21.0718 2.49515,17.7437 2.49515,13.6347 C2.49515,12.3766 2.81327,11.199 3.36222,10.1579 L1.54076,8.34814 C0.57386,9.88512 0,11.6886 0,13.6347 C0,19.1133 4.46626,23.5508 9.98053,23.5508 L9.98053,27.2694 L14.9708,22.3113 L9.98053,17.3532 L9.98053,21.0718 Z" id="Path"></path>
+            <path d="M9.98047,3.71854 L9.98047,0 L4.99023,4.95804 L9.98047,9.91608 L9.98047,6.19753 C14.1161,6.19753 17.4658,9.52563 17.4658,13.6346 C17.4658,14.8927 17.1477,16.0703 16.5988,17.1115 L18.4202,18.9212 C19.3871,17.3842 19.961,15.5807 19.961,13.6346 C19.9609,8.15599 15.4947,3.71854 9.98047,3.71854 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
